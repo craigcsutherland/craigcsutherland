@@ -2,6 +2,7 @@
 As a highly motivated and dedicated individual aspiring to pursue a career in cybersecurity, I am passionate about developing my technical skills and staying at the forefront of the ever-evolving industry. My commitment to excellence, coupled with a solid foundation in Engineering, Programming and Computing & IT, drives me to excel in this field.
 
 - <h2>👨‍💻 Cyber Security Projects:</h2>
+  - <i>Currently working through Googles cybersecurity certificate and towards CompTIA Security+</i>
 
 
 
