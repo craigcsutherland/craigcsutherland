@@ -10,7 +10,8 @@ As a highly motivated and dedicated individual aspiring to pursue a career in cy
   - <i>Higher National Certificate Computing & IT</i>
   - <i>Cisco Networking Essentials</i>
   - [Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/SYWV8C7R285W)
-
+  - [Play It Safe: Manage Security Risks](https://coursera.org/share/7bf66377083c865012a3541132ef1383)
+    
 - <h2>👨‍💻 Web development Projects:</h2>
 - <b>HTML & CSS</b>
   - [Portfolio Page](https://github.com/craigcsutherland/Portfolio-page)
