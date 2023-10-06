@@ -13,6 +13,7 @@ As a highly motivated and dedicated individual aspiring to pursue a career in cy
   - [Google - Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/SYWV8C7R285W)
   - [Google - Play It Safe: Manage Security Risks](https://coursera.org/share/7bf66377083c865012a3541132ef1383)
   - [Google - Connect and Protect: Networks and Network Security](https://coursera.org/share/5edbc662651f3147bdc35a76945c8661)
+  - [Google - Tools of the Trade: Linux and SQL](https://coursera.org/share/0709903d6f218e2786ccb73da0f6e710)
         
 - <h2>👨‍💻 Web development Projects:</h2>
 - <b>HTML & CSS</b>
